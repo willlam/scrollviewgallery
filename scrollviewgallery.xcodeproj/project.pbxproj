@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3970BFE01CA0AA74008665F4 /* Lighthouse-in-Field.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3970BFDD1CA0AA74008665F4 /* Lighthouse-in-Field.jpg */; };
+		3970BFE11CA0AA74008665F4 /* Lighthouse-night.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3970BFDE1CA0AA74008665F4 /* Lighthouse-night.jpg */; };
+		3970BFE21CA0AA74008665F4 /* Lighthouse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3970BFDF1CA0AA74008665F4 /* Lighthouse.jpg */; };
 		39BB0CDC1CA08F4C006708AC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BB0CDB1CA08F4C006708AC /* main.m */; };
 		39BB0CDF1CA08F4C006708AC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BB0CDE1CA08F4C006708AC /* AppDelegate.m */; };
 		39BB0CE21CA08F4C006708AC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BB0CE11CA08F4C006708AC /* ViewController.m */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3970BFDD1CA0AA74008665F4 /* Lighthouse-in-Field.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Lighthouse-in-Field.jpg"; path = "../../../../images/Lighthouse-in-Field.jpg"; sourceTree = "<group>"; };
+		3970BFDE1CA0AA74008665F4 /* Lighthouse-night.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Lighthouse-night.jpg"; path = "../../../../images/Lighthouse-night.jpg"; sourceTree = "<group>"; };
+		3970BFDF1CA0AA74008665F4 /* Lighthouse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Lighthouse.jpg; path = ../../../../images/Lighthouse.jpg; sourceTree = "<group>"; };
 		39BB0CD71CA08F4C006708AC /* scrollviewgallery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = scrollviewgallery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39BB0CDB1CA08F4C006708AC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		39BB0CDD1CA08F4C006708AC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -75,6 +81,9 @@
 			isa = PBXGroup;
 			children = (
 				39BB0CDB1CA08F4C006708AC /* main.m */,
+				3970BFDD1CA0AA74008665F4 /* Lighthouse-in-Field.jpg */,
+				3970BFDE1CA0AA74008665F4 /* Lighthouse-night.jpg */,
+				3970BFDF1CA0AA74008665F4 /* Lighthouse.jpg */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -139,7 +148,10 @@
 			files = (
 				39BB0CEA1CA08F4C006708AC /* LaunchScreen.storyboard in Resources */,
 				39BB0CE71CA08F4C006708AC /* Assets.xcassets in Resources */,
+				3970BFE11CA0AA74008665F4 /* Lighthouse-night.jpg in Resources */,
+				3970BFE21CA0AA74008665F4 /* Lighthouse.jpg in Resources */,
 				39BB0CE51CA08F4C006708AC /* Main.storyboard in Resources */,
+				3970BFE01CA0AA74008665F4 /* Lighthouse-in-Field.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +311,7 @@
 				39BB0CF01CA08F4C006708AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
